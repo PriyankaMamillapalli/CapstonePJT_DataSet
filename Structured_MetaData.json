@@ -1,0 +1,19 @@
+[
+    {
+        "source_url" : "refs/heads/main/Retail_Orders_Data.csv",
+        "sink_folder" : "UrbanCart_Bronze_Orders",
+        "sink_file" : "UrbanCart_orders.csv"
+    },
+    {
+         "source_url" : "refs/heads/main/Retail_Customers_Data.csv",
+        "sink_folder" : "UrbanCart_Bronze_Customers",
+        "sink_file" : "UrbanCart_customers.csv"
+
+    },
+    {
+        "source_url" : "refs/heads/main/Retail_Products_Data.csv",
+        "sink_folder" : "UrbanCart_Bronze_Products",
+        "sink_file" : "UrbanCart_products.csv"
+
+    }
+]
