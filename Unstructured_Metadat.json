@@ -1,0 +1,19 @@
+[
+{
+        "source_url" : "refs/heads/main/Retail_Reviews_Content.json",
+        "sink_folder" : "UrbanCart_Bronze_Reviews",
+        "sink_file" : "UrbanCart_review.json"
+    },
+    {
+         "source_url" : "refs/heads/main/Retail_Social_Media_Content.json",
+        "sink_folder" : "UrbanCart_Bronze_Social_Media",
+        "sink_file" : "UrbanCart_social_media.json"
+
+    },
+    {
+        "source_url" : "refs/heads/main/Retail_Web_Activity.json",
+        "sink_folder" : "UrbanCart_Bronze_Web_Logs",
+        "sink_file" : "UrbanCart_web_logs.json"
+
+    }
+]
